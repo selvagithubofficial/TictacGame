@@ -35,7 +35,7 @@ function select_winbx(a,b,c){
     b.classList.add("win3");
     c.classList.add("win3");
     document.getElementById("winner").innerHTML=a.innerHTML+" WIN CONGRATS";
-    document.getElementById("winner").style.fontSize="2.2em";
+    document.getElementById("winner").style.fontSize="3.2em";
     
 }
 
